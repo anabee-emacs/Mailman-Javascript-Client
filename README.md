@@ -3,7 +3,7 @@
 This is a light Javascript client that interfaces with the Mailman 3 REST API.
 
 ### Install
-    npm i mailman-js-client
+    npm i mailman-js
 
 ### Run
 Make sure you have Mailman core running. You can even test it inside node's interactive cli:
