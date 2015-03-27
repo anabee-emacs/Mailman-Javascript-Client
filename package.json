@@ -1,0 +1,11 @@
+{
+  "name": "mailman",
+  "version": "1.0.0",
+  "description": "Mailman client",
+  "main": "mailman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ana Badescu <anabee.emacs@gmail.com>",
+  "license": "ISC"
+}
