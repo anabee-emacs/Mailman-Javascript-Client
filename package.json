@@ -1,8 +1,12 @@
 {
-  "name": "mailman",
-  "version": "1.0.0",
+  "name": "mailman-js",
+  "version": "1.0.1",
   "description": "Mailman client",
   "main": "mailman.js",
+  "repository" :
+    { "type" : "git"
+      , "url" : "https://github.com/anabee-emacs/Mailman-Javascript-Client"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
